@@ -702,6 +702,10 @@ ul {
     min-height: auto;
   }
 
+  .hero-bg {
+    background-image: url('bg-hero-mobile.png');
+  }
+
   .hero-content {
     min-height: auto;
     padding-block: calc(var(--header-height) + 40px) 48px;
